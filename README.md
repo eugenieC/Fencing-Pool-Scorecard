@@ -15,4 +15,3 @@ In addition to making it easy to record and track this information, the scorecar
 • Ind – Indicator
 
 The scorecard is designed to accommodate up to 7 fencers, making it suitable for most pool bouts. Its ease of use and comprehensive metrics make it an essential tool for any fencer, whether they are competing at a high level or just starting out.
-![image](https://github.com/eugenieC/Fencing-Pool-Scorecard/assets/40417846/1591980b-9b67-493e-92fd-ad57b9d29ad0)
